@@ -36,10 +36,10 @@
 <div align="center">
     <h2 >Connect With Me</h2>
     <a href="https://facebook.com/subhankar18r" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+            <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
     </a>
     <a href="https://linkedin.com/in/subhankar18r" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+            <img  height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
     </div>
 

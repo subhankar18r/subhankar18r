@@ -34,9 +34,9 @@
 <!-- github stats -->
 <h2 align="center">Github Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=subhankar18r" height="150" alt="stats graph" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar18r&"alt="subhankar18r" />
-   <img height="300" width="auto" src="https://wakatime.com/share/@subhankar18r/b11f714f-ac86-4497-8d59-f1800f5fe3e5.svg" />
+    <div><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=subhankar18r" height="150" alt="stats graph" /></div>
+    <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar18r&"alt="subhankar18r" /></div>
+   <div><img height="300" width="auto" src="https://wakatime.com/share/@subhankar18r/b11f714f-ac86-4497-8d59-f1800f5fe3e5.svg" /></div>
     
 </div>
 <!-- Connect with me -->

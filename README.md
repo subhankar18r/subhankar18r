@@ -25,11 +25,6 @@
  </div>
 </div>
 <!-- github stats -->
-
-[![](https://raw.githubusercontent.com/subhankar18r/github-profile-summary-cards-example/master/profile-summary-card-output/outrun/0-profile-details.svg)](https://github.com/subhankar18r/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/subhankar18r/github-profile-summary-cards-example/master/profile-summary-card-output/outrun/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/subhankar18r/github-profile-summary-cards-example/master/profile-summary-card-output/outrun/2-most-commit-language.svg)](https://github.com/subhankar18r/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/subhankar18r/github-profile-summary-cards-example/master/profile-summary-card-output/outrun/3-stats.svg)](https://github.com/subhankar18r/github-profile-summary-cards) [![](https://raw.githubusercontent.com/subhankar18r/github-profile-summary-cards-example/master/profile-summary-card-output/outrun/4-productive-time.svg)](https://github.com/subhankar18r/github-profile-summary-cards)
-
 <h2 align="left">Github Stats</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhankar18r" alt="subhankar18r" /></a> </p>
 <div align="center">

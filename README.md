@@ -36,7 +36,7 @@
 <div align="center">
     <div><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=subhankar18r" height="150" alt="stats graph" /></div>
     <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar18r&"alt="subhankar18r" /></div>
-   <div><img height="400" width="auto" src="https://wakatime.com/share/@subhankar18r/b11f714f-ac86-4497-8d59-f1800f5fe3e5.svg" /></div>
+   <div><img height="400" width="auto" src="https://wakatime.com/share/@subhankar18r/8f0eda1a-4159-4dca-9ac1-f4f68d65db2b.svg" /></div>
     
 </div>
 <!-- Connect with me -->

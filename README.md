@@ -27,10 +27,9 @@
 </div>
 <!-- github stats -->
 <h2 align="center">Github Stats</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhankar18r" alt="subhankar18r" /></a> </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=subhankar18r" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=subhankar18r" height="150" alt="languages graph"  />
+ <figure><embed src="https://wakatime.com/share/@subhankar18r/b11f714f-ac86-4497-8d59-f1800f5fe3e5.svg"></embed></figure>
 </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar18r&" alt="subhankar18r" /></p>
 <!-- Connect with me -->

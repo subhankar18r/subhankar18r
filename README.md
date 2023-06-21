@@ -35,7 +35,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar18r&" alt="subhankar18r" /></p>
 <!-- Connect with me -->
 <div align="center">
-    <span >Connect With Me</span>
+    <h2 >Connect With Me</h2>
     <a href="https://facebook.com/subhankar18r" target="_blank">
             <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
     </a>

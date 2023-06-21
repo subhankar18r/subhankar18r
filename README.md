@@ -25,7 +25,7 @@
  </div>
 </div>
 <!-- github stats -->
-<h2 align="left">Github Stats</h2>
+<h2 align="center">Github Stats</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhankar18r" alt="subhankar18r" /></a> </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=subhankar18r" height="150" alt="stats graph"  />
@@ -36,13 +36,10 @@
 <div align="center">
     <h2 >Connect With Me</h2>
     <a href="https://facebook.com/subhankar18r" target="_blank">
-        <img height="40" width="auto" src="https://facebook.com/images/fb_icon_325x325.png" alt="facebook">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
     </a>
     <a href="https://linkedin.com/in/subhankar18r" target="_blank">
-     <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" />
-    </a>
-    <a href="https://twitter.com/subhankar18r" target="_blank" style="color:#1D9BF0 ;" >
-    <img height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/150px-Twitter-logo.svg.png" alt="twitter" >
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
     </div>
 
